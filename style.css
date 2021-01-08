@@ -1,0 +1,17 @@
+.btn:focus,
+.btn:active {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+#logo {
+    color: rgb(246, 246, 21);
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+.current {
+    background-color: cyan;
+}
